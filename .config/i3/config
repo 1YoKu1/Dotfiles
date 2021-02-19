@@ -146,6 +146,7 @@ bindsym $mod+r mode "resize"
 #| (_| | (_| | |_) \__ \
 # \__, |\__,_| .__/|___/
 # |___/      |_|        
+gaps inner 10
 gaps outer 0
 for_window [class="^.*"] border pixel 3
 client.focused			#7974aa #7974aa #dfdfdf #7974aa
